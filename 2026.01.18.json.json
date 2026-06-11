@@ -1,0 +1,91 @@
+[
+  {
+    "service" : "spotify",
+    "description" : "",
+    "serviceId" : "6TSbtGDqqO4GVP2gkm4ba1",
+    "tracks" : [
+      {
+        "service" : "spotify",
+        "isrc" : "USA2P2547573",
+        "track" : "Holy Roller",
+        "artist" : "The Format",
+        "serviceId" : "34OEHEvy2YHHWJl1mOfHpz",
+        "album" : "Holy Roller"
+      },
+      {
+        "service" : "spotify",
+        "isrc" : "USC4R2445167",
+        "track" : "Thought You Were Waving",
+        "artist" : "Militarie Gun",
+        "serviceId" : "09q7J1FQFeVuBjwFJpiGXs",
+        "album" : "God Save The Gun"
+      },
+      {
+        "service" : "spotify",
+        "isrc" : "QT32U2500040",
+        "track" : "Bible Passages",
+        "artist" : "Dave Hause",
+        "serviceId" : "5u0BpIAht7kgnss97yH6DZ",
+        "album" : "...and The Mermaid"
+      },
+      {
+        "service" : "spotify",
+        "isrc" : "USSTT2500027",
+        "track" : "You Ominously End",
+        "artist" : "Arm's Length",
+        "serviceId" : "7oT2VMjDJvAaVGAAKM3EhU",
+        "album" : "There's A Whole World Out There"
+      },
+      {
+        "isrc" : "CA0RZ2500056",
+        "album" : "Let it Hiss",
+        "serviceId" : "6DHkErN0eDNTWNXFZ8ynFi",
+        "artist" : "The Barr Brothers",
+        "track" : "Run Right Into It",
+        "service" : "spotify"
+      },
+      {
+        "isrc" : "QM6N22532874",
+        "album" : "No Hard Feelings",
+        "serviceId" : "6QqGnsM0pQrsG5O1QQaTYY",
+        "artist" : "The Beaches",
+        "track" : "Can I Call You in the Morning?",
+        "service" : "spotify"
+      },
+      {
+        "isrc" : "USC4R2558192",
+        "album" : "New Old Tape",
+        "serviceId" : "0ewbW2KOQvgNr2CMDQY7kS",
+        "artist" : "Lucius",
+        "track" : "New Old Tape",
+        "service" : "spotify"
+      },
+      {
+        "isrc" : "QM24S2506312",
+        "album" : "Some Kind of Dangerous",
+        "serviceId" : "3tp26JDEaqCEytpuSyTAVl",
+        "artist" : "Arts Fishing Club",
+        "track" : "Some Kind of Dangerous",
+        "service" : "spotify"
+      },
+      {
+        "isrc" : "SGW502500321",
+        "album" : "Eternal Youth",
+        "serviceId" : "0Ihv1JSqlHAvCX9i0icV0k",
+        "artist" : "The Starting Line",
+        "track" : "Circulate",
+        "service" : "spotify"
+      },
+      {
+        "isrc" : "QZL382556237",
+        "album" : "Beast",
+        "serviceId" : "5Rx2i5nJLxMZAd9F2Wuel6",
+        "artist" : "Witch Post",
+        "track" : "The Wolf",
+        "service" : "spotify"
+      }
+    ],
+    "snapshotId" : null,
+    "name" : "2026.01.18"
+  }
+]
