@@ -1,0 +1,91 @@
+[
+  {
+    "tracks" : [
+      {
+        "serviceId" : "370577535",
+        "artist" : "The Lawrence Arms",
+        "isrc" : "USB750513103",
+        "track" : "100 Resolutions",
+        "service" : "tidal",
+        "album" : "Cocktails & Dreams"
+      },
+      {
+        "serviceId" : "449508196",
+        "artist" : "Banner Pilot",
+        "isrc" : "USFW41177801",
+        "track" : "Alchemy",
+        "service" : "tidal",
+        "album" : "Heart Beats Pacific"
+      },
+      {
+        "serviceId" : "121123395",
+        "artist" : "Strike Anywhere",
+        "isrc" : "USA6M0408703",
+        "track" : "Infared",
+        "service" : "tidal",
+        "album" : "Exit English"
+      },
+      {
+        "serviceId" : "449496126",
+        "artist" : "Teenage Bottlerocket",
+        "isrc" : "USFW40974701",
+        "track" : "Skate or Die",
+        "service" : "tidal",
+        "album" : "They Came From The Shadows"
+      },
+      {
+        "serviceId" : "491250581",
+        "artist" : "Alkaline Trio",
+        "isrc" : "USVR90744106",
+        "track" : "Warbrain",
+        "service" : "tidal",
+        "album" : "Remains"
+      },
+      {
+        "serviceId" : "107925849",
+        "artist" : "Iron Chic",
+        "isrc" : "QZES71913368",
+        "track" : "Time Keeps on Slipping Into the (Cosmic) Future",
+        "service" : "tidal",
+        "album" : "Not Like This"
+      },
+      {
+        "serviceId" : "35312800",
+        "artist" : "Strike Anywhere",
+        "isrc" : "US2Y70900083",
+        "track" : "I'm Your Opposite Number",
+        "service" : "tidal",
+        "album" : "Iron Front"
+      },
+      {
+        "serviceId" : "21951516",
+        "artist" : "Red City Radio",
+        "isrc" : "QMFMG1336569",
+        "track" : "Show Me on the Doll Where the Music Touched You",
+        "service" : "tidal",
+        "album" : "Titles"
+      },
+      {
+        "serviceId" : "182785003",
+        "artist" : "Off With Their Heads",
+        "isrc" : "USEP41007012",
+        "track" : "Clear The Air",
+        "service" : "tidal",
+        "album" : "In Desolation"
+      },
+      {
+        "serviceId" : "121050939",
+        "artist" : "Avail",
+        "isrc" : "USA6M0511001",
+        "track" : "Simple Song",
+        "service" : "tidal",
+        "album" : "4AM Friday"
+      }
+    ],
+    "name" : "2026.02.22",
+    "description" : null,
+    "service" : "tidal",
+    "serviceId" : "ce2c971f-f996-4975-9612-4c2094d63c53",
+    "snapshotId" : null
+  }
+]

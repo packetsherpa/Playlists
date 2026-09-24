@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<VisioDocument xmlns='http://schemas.microsoft.com/visio/2003/core'>
+    <Pages>
+        <Page ID='0' NameU='Dual-State Architecture' ViewScale='1' ViewCenterX='5' ViewCenterY='5'>
+            <Shapes>
+                <Shape ID='1' Type='Shape' NameU='Entra'>
+                    <XForm><PinX>1</PinX><PinY>5</PinY><Width>1.2</Width><Height>0.6</Height></XForm>
+                    <Text>Microsoft Entra</Text>
+                    <Line><LineWeight>0.01</LineWeight></Line>
+                </Shape>
+
+                <Shape ID='2' Type='Group' NameU='US_Users'><XForm><PinX>3</PinX><PinY>7.5</PinY><Width>1.4</Width><Height>0.8</Height></XForm><Text>US Users</Text></Shape>
+                <Shape ID='3' Type='Group' NameU='ROW_Users'><XForm><PinX>3</PinX><PinY>5</PinY><Width>1.4</Width><Height>0.8</Height></XForm><Text>ROW Users</Text></Shape>
+                <Shape ID='4' Type='Group' NameU='China_Users'><XForm><PinX>3</PinX><PinY>2.5</PinY><Width>1.4</Width><Height>0.8</Height></XForm><Text>China Users</Text></Shape>
+
+                <Shape ID='10' Type='Group' NameU='Zscaler_Cont'>
+                    <XForm><PinX>6</PinX><PinY>7.5</PinY><Width>2.2</Width><Height>1.2</Height></XForm>
+                    <Line><LineColor>#FF0000</LineColor><LineWeight>0.02</LineWeight></Line>
+                    <Text>Zscaler (Active)&#10;[ZCC Agent]</Text>
+                </Shape>
+
+                <Shape ID='11' Type='Group' NameU='Prisma_Cont'>
+                    <XForm><PinX>6</PinX><PinY>5</PinY><Width>2.2</Width><Height>1.2</Height></XForm>
+                    <Line><LineColor>#0000FF</LineColor><LinePattern>2</LinePattern></Line>
+                    <Text>Prisma Access&#10;[GlobalProtect]</Text>
+                </Shape>
+
+                <Shape ID='12' Type='Group' NameU='Prisma_China_Cont'>
+                    <XForm><PinX>6</PinX><PinY>2.5</PinY><Width>2.2</Width><Height>1.2</Height></XForm>
+                    <Line><LineColor>#0000FF</LineColor><LinePattern>2</LinePattern></Line>
+                    <Text>Prisma China&#10;[GlobalProtect]</Text>
+                </Shape>
+
+                <Shape ID='20' Type='Group' NameU='Internet_Cont'>
+                    <XForm><PinX>9</PinX><PinY>7.5</PinY><Width>2.0</Width><Height>1.0</Height></XForm>
+                    <Text>Internet &amp; SaaS</Text>
+                </Shape>
+
+                <Shape ID='21' Type='Group' NameU='DC_Cont'>
+                    <XForm><PinX>9</PinX><PinY>5</PinY><Width>2.0</Width><Height>1.5</Height></XForm>
+                    <Text>On-Prem Data Centers</Text>
+                </Shape>
+                <Shape ID='211' Type='Shape' NameU='Brooklyn'><XForm><PinX>9</PinX><PinY>5.2</PinY><Width>1.5</Width><Height>0.4</Height></XForm><Text>Brooklyn, NY</Text></Shape>
+                <Shape ID='212' Type='Shape' NameU='Dallas'><XForm><PinX>9</PinX><PinY>4.7</PinY><Width>1.5</Width><Height>0.4</Height></XForm><Text>Dallas, TX</Text></Shape>
+
+                <Shape ID='22' Type='Group' NameU='Bypass_Cont'>
+                    <XForm><PinX>9</PinX><PinY>2.5</PinY><Width>2.0</Width><Height>1.0</Height></XForm>
+                    <Line><LinePattern>3</LinePattern></Line>
+                    <Text>Direct Bypass&#10;[Zoom &amp; AV]</Text>
+                </Shape>
+
+                <Shape ID='50' Type='Edge'><XForm><PinX>4.5</PinX><PinY>7.5</PinY></XForm><Line><LineColor>#FF0000</LineColor></Line></Shape>
+                <Shape ID='51' Type='Edge'><XForm><PinX>4.5</PinX><PinY>5</PinY></XForm><Line><LineColor>#0000FF</LineColor><LinePattern>2</LinePattern></Line></Shape>
+                <Shape ID='52' Type='Edge'><XForm><PinX>4.5</PinX><PinY>2.5</PinY></XForm><Line><LinePattern>3</LinePattern></Line></Shape>
+            </Shapes>
+        </Page>
+    </Pages>
+</VisioDocument>

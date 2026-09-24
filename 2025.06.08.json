@@ -1,0 +1,67 @@
+{
+  "name" : "2025.06.08",
+  "description" : null,
+  "serviceId" : null,
+  "snapshotId" : null,
+  "tracks" :[
+  {
+    "track": "Kiss the Dirt (Falling Down the Mountain)",
+    "artist": "INXS",
+    "album": "Listen Like Thieves",
+    "service": "Spotify"
+  },
+  {
+    "track": "Love My Way",
+    "artist": "The Psychedelic Furs",
+    "album": "Forever Now",
+    "service": "Spotify"
+  },
+  {
+    "track": "Just What I Needed",
+    "artist": "The Cars",
+    "album": "The Cars",
+    "service": "Spotify"
+  },
+  {
+    "track": "Girls On Film",
+    "artist": "Duran Duran",
+    "album": "Duran Duran",
+    "service": "Spotify"
+  },
+  {
+    "track": "The Sun Always Shines on TV",
+    "artist": "a-ha",
+    "album": "Hunting High and Low",
+    "service": "Spotify"
+  },
+  {
+    "track": "Temptation",
+    "artist": "New Order",
+    "album": "Substance 1987",
+    "service": "Spotify"
+  },
+  {
+    "track": "Take on Me",
+    "artist": "a-ha",
+    "album": "Hunting High and Low",
+    "service": "Spotify"
+  },
+  {
+    "track": "Der Kommissar",
+    "artist": "Falco",
+    "album": "Einzelhaft",
+    "service": "Spotify"
+  },
+  {
+    "track": "Down Under",
+    "artist": "Men at Work",
+    "album": "Business as Usual",
+    "service": "Spotify"
+  },
+  {
+    "track": "Jessie's Girl",
+    "artist": "Rick Springfield",
+    "album": "Working Class Dog",
+    "service": "Spotify"
+  }
+]
